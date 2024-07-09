@@ -1,0 +1,18 @@
+ .classNavul{
+ background-color: #CBBFE6;
+  padding:2%;
+ }
+
+
+ .classNavul li {
+
+
+  padding: 2%;
+ }
+
+
+ .classNavul li a {
+
+  text-decoration: none;
+  color:black
+ }

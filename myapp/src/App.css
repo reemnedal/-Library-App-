@@ -1,0 +1,29 @@
+ 
+.space{
+
+
+  margin-left: 5rem;
+}
+
+
+.card{
+
+
+  background-color: #CBBFE6;
+  width:20rem;
+  height:fit-content;
+  margin: 5rem;
+  padding:2rem;
+  margin-top: 0%;
+  display:inline-block;
+  box-shadow: 1px 1px 4px black;
+  
+  margin-left: auto;
+ }
+
+
+ .card div{
+  margin:2rem;
+  
+ }
+
